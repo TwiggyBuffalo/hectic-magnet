@@ -18,3 +18,6 @@ node .
 
 ## Contributors
 Contributors are welcome, feel free to open a [Pull Request](https://github.com/TwiggyBuffalo/hectic-magnet/pulls) or file an [Issue](https://github.com/TwiggyBuffalo/hectic-magnet/issues)
+
+## License
+MIT
